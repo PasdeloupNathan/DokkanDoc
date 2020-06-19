@@ -59,12 +59,12 @@
                     <h3> Best Team Random Display </h3>
                     <h4 class="teamName">Kamehameha Team</h4>
                     <div class="row teamList">
-                        <div class="col-2 leaderMain">Leader <br> <img src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/f/f3/Card_1017630_thumb_apng.png/revision/latest?cb=20190829045927&format=original" alt="Gohan LR"></div>
-                        <div class="col-2"> <br> <img src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/9/9f/Card_1012930_thumb_apng.png/revision/latest?cb=20190117160532&format=original" alt="Gogeta LR"></div>
-                        <div class="col-2"> <br> <img src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/9/9b/Card_1012900_thumb_apng.png/revision/latest?cb=20190117171239&format=original" alt="Vegeto LR"></div>
-                        <div class="col-2"> <br> <img src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/4/45/Card_1018250_thumb_apng.png/revision/latest?cb=20200217134245&format=original" alt="Goku God LR"></div>
-                        <div class="col-2"> <br> <img src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/c/c9/Card_1014210_thumb_apng.png/revision/latest?cb=20190130084752&format=original" alt="Goku4 LR"> </div>
-                        <div class="col-2"><br> <img src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/3/31/Card_1016810_thumb_apng.png/revision/latest?cb=20190507110857&format=original" alt="Gohan goten LR"></div>
+                        <div class="col-2 leaderMain"> <p>Leader</p> <img class="iconT" src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/f/f3/Card_1017630_thumb_apng.png/revision/latest?cb=20190829045927&format=original" alt="Gohan LR"></div>
+                        <div class="col-2"> <br> <img class="iconT" src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/9/9f/Card_1012930_thumb_apng.png/revision/latest?cb=20190117160532&format=original" alt="Gogeta LR"></div>
+                        <div class="col-2"> <br> <img class="iconT" src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/9/9b/Card_1012900_thumb_apng.png/revision/latest?cb=20190117171239&format=original" alt="Vegeto LR"></div>
+                        <div class="col-2"> <br> <img class="iconT" src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/4/45/Card_1018250_thumb_apng.png/revision/latest?cb=20200217134245&format=original" alt="Goku God LR"></div>
+                        <div class="col-2"> <br> <img class="iconT"src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/c/c9/Card_1014210_thumb_apng.png/revision/latest?cb=20190130084752&format=original" alt="Goku4 LR"> </div>
+                        <div class="col-2"> <br> <img class="iconT" src="https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/3/31/Card_1016810_thumb_apng.png/revision/latest?cb=20190507110857&format=original" alt="Gohan goten LR"></div>
                     </div>
                 </div>
                 <div class="col-12 FriendNews"></div>

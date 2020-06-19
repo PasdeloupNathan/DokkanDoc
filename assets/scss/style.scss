@@ -14,8 +14,11 @@ header {
 }
 
 main {
-    height: 100vh;
-    background-color: #0c265d;
+    height: 200vh;
+    background-image: url(../img/bg1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     .mainly {
         height: 100%;
         .gauche {
@@ -36,12 +39,22 @@ main {
                 .teamName {
                     width: 100%;
                     text-align: center;
+                    font-size: 3rem;
+                    margin: 0;
+                    height: 0%;
                 }
                 .teamList {
                     width: 100%;
                     .leaderMain {
                         font-size: 1.5rem;
                         text-align: center;
+                        p {
+                            height: 10%;
+                            margin: 0;
+                        }
+                    }
+                    .iconT {
+                        width: 120%;
                     }
                 }
                 height: 50%;
