@@ -90,6 +90,9 @@
         </section>
     </main>
 
+
+    <!-- SCRIPT  -->
+
     <script src="./assets/js/Leader.js"></script>
     <script>
         console.log(leader[0])
